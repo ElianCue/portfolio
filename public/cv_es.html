@@ -1,0 +1,122 @@
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 20px;
+            font-size: 11px;
+        }
+
+        h1 {
+            font-size: 18px;
+            text-align: center;
+            margin-bottom: 0;
+        }
+
+        h2 {
+            font-size: 13px;
+            border-bottom: 1px solid #000;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+
+        .contact {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        .entry {
+            margin-bottom: 10px;
+        }
+
+        .title {
+            font-weight: bold;
+        }
+
+        .org {
+            font-style: italic;
+        }
+
+        ul {
+            margin-top: 3px;
+            margin-bottom: 3px;
+            padding-left: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Elian Cueva</h1>
+    <div class='contact'>Buenos Aires, Argentina | eliancuevac@gmail.com | linkedin.com/in/elian-cuevacoronel |
+        github.com/eliancue | +54 2216565661</div>
+
+    <h2>Educación</h2>
+    <div class='entry'>
+        <span class='title'>Universidad Nacional de La Plata (UNLP)</span><br />
+        <span class='org'>Licenciatura en Informática</span> | En Curso
+    </div>
+    <div class='entry'>
+        <span class='title'>EducaciónIT</span><br />
+        <span class='org'>Certificación Full Stack Engineer & React Developer</span> | Completado
+    </div>
+
+    <h2>Experiencia</h2>
+    <div class='entry'>
+        <span class='title'>Desarrollador Full Stack</span> | <span class='org'>Hutrit Club (MyUrbanScoot)</span> | Jul
+        2025 – Presente
+        <ul>
+            <li>Arquitectó y desplegó un Sistema de Notificaciones manejado por eventos usando Node.js, EventBus y
+                Webhooks de Twilio, empujando data conversacional de WhatsApp en tiempo real hacia un dashboard de React
+                a través de Server-Sent Events (SSE).</li>
+            <li>Construyó un Motor Logístico híbrido como plugin en MedusaJS para automatizar interfaces legacy SOAP/XML
+                (OnTime) y REST APIs (GLS). Desarrolló un enrutamiento dinámico evadiendo cuellos de botella para
+                pallets pesados (+1,200kg).</li>
+            <li>Desarrolló un Dashboard Administrativo completo en React con paginación infinita, creación masiva de
+                envíos (Bulk Actions), impresión nativa de etiquetas por lotes (PDF/ZPL), y exportaciones robustas a
+                Excel.</li>
+            <li>Desplegó y administró la arquitectura de producción en Railway utilizando contenedores Docker aislados
+                para servicios Backend, Workers asíncronos puntuales, Redis Pub/Sub, clústeres Meilisearch para
+                indexación rápida, Bases PostgreSQL y Storage S3 (Buckets).</li>
+            <li>Optimizó el Motor Analítico de la base de datos migrando complejas y bloqueantes queries N+1 SQL hacia
+                un sistema aislado en Node.js de caché en memoria con hashing predictivo, bajando las latencias de >15
+                segundos a menos de 50ms.</li>
+        </ul>
+    </div>
+    <div class='entry'>
+        <span class='title'>Analista Funcional</span> | <span class='org'>Voolkia Software & Services</span> | Jun 2023
+        – Sept 2024
+        <ul>
+            <li>Relevamiento y análisis funcional de requerimientos del negocio, traduciendo necesidades operativas en
+                especificaciones técnicas de software.</li>
+            <li>Colaboración estrecha con equipos de desarrollo para la planificación y seguimiento de entregables
+                cumpliendo con los estándares de calidad.</li>
+        </ul>
+    </div>
+    <div class='entry'>
+        <span class='title'>Desarrollador Front-end</span> | <span class='org'>No Country (Prácticas)</span> | May 2023
+        – Jun 2023
+        <ul>
+            <li>Desarrollo colaborativo Front End en la aplicación "My Service" utilizando React y TailwindCSS.</li>
+            <li>Participación activa en metodologías ágiles enfocadas en el trabajo en equipo y entregas continuas en
+                sprints.</li>
+        </ul>
+    </div>
+
+    <h2>Habilidades Técnicas</h2>
+    <div class='entry'>
+        <ul>
+            <li><b>Lenguajes & Frontend:</b> TypeScript, JavaScript, React.js, Next.js, TailwindCSS, Zustand</li>
+            <li><b>Backend & Arquitectura:</b> Node.js, Express, NestJS, Medusa Framework, RESTful APIs, SOAP/XML,
+                Microservicios, SSE, EventBus</li>
+            <li><b>Infraestructura & DevOps:</b> Railway, Vercel, AWS S3 / Buckets, Docker, CI/CD, Reverse Proxy
+                (Traefik)</li>
+            <li><b>Base de Datos:</b> PostgreSQL, MySQL, Redis (Pub/Sub), MeiliSearch, Optimización de Queries</li>
+            <li><b>Automatización IA:</b> OpenAI API, RAG, Cursor, Claude Code, GitHub Copilot, Prompt Engineering</li>
+        </ul>
+    </div>
+</body>
+
+</html>

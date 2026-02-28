@@ -1,0 +1,44 @@
+ELIAN CUEVA CORONEL – Desarrollador Full Stack
+La Plata, Buenos Aires, Argentina | +54 221 6565661 | eliancuevac@gmail.com | linkedin.com/in/elian-cuevacoronel |
+eliancue.github.io/portfolio
+RESUMEN PROFESIONAL
+Desarrollador Full Stack con más de 2 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y
+sistemas empresariales. Especializado en React, Next.js, Node.js y TypeScript, con fuerte enfoque en arquitectura de
+microservicios, integración de APIs externas y automatización de procesos. Experiencia comprobada reduciendo errores
+operativos en un 80% mediante soluciones escalables orientadas al negocio.
+EXPERIENCIA PROFESIONAL
+Desarrollador Full Stack – Hutrit Club (Remoto) | Jul 2024 - Presente | Valencia, España
+•
+Lideré el desarrollo e implementación de más de 7 módulos core sobre Medusa Framework para una plataforma de
+logística y e■commerce, impactando directamente en la operación diaria del negocio.
+• Diseñé el módulo de Gestión de Envíos con integración bidireccional OnTime API, importación masiva desde Excel, parsing
+XML SOAP y tracking automático de estados.
+•
+Implementé un Sistema de Citas con validación horaria, manejo de slots, soporte de timezone Europa/Madrid y persistencia
+en base de datos.
+• Construí un motor de Analytics con cacheo inteligente, cálculo de métricas desde órdenes, generación de reportes CSV y
+queries optimizadas.
+• Desarrollé una plataforma de Chat History integrada con WhatsApp (Twilio), historial conversacional, sistema de notas
+internas y automatizaciones con OpenAI.
+• Diseñé arquitectura de microservicios escalable e integración con APIs externas, logrando una reducción del 80% en
+errores operacionales.
+Analista Funcional – Voolkia Software & Services | Jun 2023 - Sep 2024 | Buenos Aires
+• Realicé análisis funcional y procesos de matcheo de datos para operaciones de Mercado Libre utilizando Excel.
+• Automaticé tareas repetitivas que mejoraron la eficiencia operativa y redujeron tiempos manuales.
+• Colaboré con equipos técnicos en la optimización de flujos de información y control de calidad de datos.
+Desarrollador Frontend – No Country | May 2023 - Jun 2023
+• Desarrollé el frontend de una plataforma de servicios domésticos usando React.
+•
+Implementé componentes reutilizables, formularios con validaciones usando React Hook Forms y consumo de APIs con
+Axios.
+• Apliqué diseño responsive con TailwindCSS, animaciones con Framer Motion y manejo de estado con Redux Toolkit.
+EDUCACIÓN
+Licenciatura en Informática – Universidad Nacional de La Plata (En curso)
+Full Stack Engineer – EducaciónIT
+React.JS Developer – EducaciónIT
+HABILIDADES TÉCNICAS
+JavaScript, TypeScript, Python, HTML, CSS, React, Next.js, Node.js, Express, Medusa Framework, Microservicios, REST APIs,
+MongoDB, MySQL, SQL, TailwindCSS, Redux Toolkit, Framer Motion, Twilio API, WhatsApp API, OpenAI API, Git, Excel
+Processing, XML Parsing.
+IDIOMAS
+Español: Nativo | Inglés: B1 Intermedio (EF SET)
