@@ -90,13 +90,13 @@ export const content = {
                     text: "Elian es un desarrollador excepcional. Su capacidad para entender problemas complejos de negocio y traducirlos en soluciones técnicas eficientes fue clave en nuestro equipo.",
                     author: "Colega o Manager",
                     position: "Senior Engineer en Empresa X",
-                    link: "https://linkedin.com/in/elian-cuevacoronel"
+                    link: "https://www.linkedin.com/in/elian-cueva-coronel/"
                 },
                 {
                     text: "Trabajar con Elian ha sido una gran experiencia. Siempre está dispuesto a aprender y aplicar nuevas herramientas de IA para potenciar su código y el del equipo.",
                     author: "Otro Colega",
                     position: "Product Manager en Empresa Y",
-                    link: "https://linkedin.com/in/elian-cuevacoronel"
+                    link: "https://www.linkedin.com/in/elian-cueva-coronel/"
                 }
             ]
         },
@@ -108,7 +108,7 @@ export const content = {
             title: "Construyamos grandes aplicaciones.",
             description: "Actualmente busco mi próxima oportunidad como desarrollador Full Stack en modalidad remota. Si tu equipo busca a alguien proactivo, que aprende rápido y prioriza las buenas prácticas, hablemos.",
             email: "eliancuevac@gmail.com",
-            links: { github: "https://github.com/eliancue", linkedin: "https://linkedin.com/in/elian-cuevacoronel", cv: "/cv_es.pdf" }
+            links: { github: "https://github.com/eliancue", linkedin: "https://www.linkedin.com/in/elian-cueva-coronel/", cv: "/cv_es.pdf" }
         },
         nav: { cv: "CV", contact: "Contacto", cases: "Casos de Estudio" }
     },
@@ -201,13 +201,13 @@ export const content = {
                     text: "Elian is an exceptional developer. His ability to understand complex business problems and translate them into efficient technical solutions was key in our team.",
                     author: "Colleague or Manager",
                     position: "Senior Engineer at Company X",
-                    link: "https://linkedin.com/in/elian-cuevacoronel"
+                    link: "https://www.linkedin.com/in/elian-cueva-coronel/"
                 },
                 {
                     text: "Working with Elian has been a great experience. He is always willing to learn and apply new AI tools to empower his code and the team's.",
                     author: "Another Colleague",
                     position: "Product Manager at Company Y",
-                    link: "https://linkedin.com/in/elian-cuevacoronel"
+                    link: "https://www.linkedin.com/in/elian-cueva-coronel/"
                 }
             ]
         },
@@ -219,7 +219,7 @@ export const content = {
             title: "Let's build great applications.",
             description: "I am currently looking for my next opportunity as a remote Full Stack developer. If your team is looking for someone proactive who learns fast and prioritizes good practices, let's talk.",
             email: "eliancuevac@gmail.com",
-            links: { github: "https://github.com/eliancue", linkedin: "https://linkedin.com/in/elian-cuevacoronel", cv: "/cv_en.pdf" }
+            links: { github: "https://github.com/eliancue", linkedin: "https://www.linkedin.com/in/elian-cueva-coronel/", cv: "/cv_en.pdf" }
         },
         nav: { cv: "Resume", contact: "Contact", cases: "Case Studies" }
     }
