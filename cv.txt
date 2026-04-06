@@ -7,7 +7,7 @@ sistemas empresariales. Especializado en React, Next.js, Node.js y TypeScript, c
 microservicios, integración de APIs externas y automatización de procesos. Experiencia comprobada reduciendo errores
 operativos en un 80% mediante soluciones escalables orientadas al negocio.
 EXPERIENCIA PROFESIONAL
-Desarrollador Full Stack – Hutrit Club (Remoto) | Jul 2024 - Presente | Valencia, España
+Desarrollador Full Stack – Hutrit Club (Remoto) | Jul 2024 - 31 Mar 2026 | Valencia, España
 •
 Lideré el desarrollo e implementación de más de 7 módulos core sobre Medusa Framework para una plataforma de
 logística y e■commerce, impactando directamente en la operación diaria del negocio.
