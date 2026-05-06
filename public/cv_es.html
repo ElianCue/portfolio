@@ -55,7 +55,7 @@
 
     <h2>Resumen</h2>
     <div class='entry'>
-        Desarrollador Full Stack con experiencia en producción en sistemas logísticos y e-commerce. Stack: Node.js, React, TypeScript. Busco un equipo donde seguir creciendo en arquitectura backend y sistemas distribuidos.
+        Desarrollador Full Stack con experiencia en producción. Stack: Node.js, TypeScript, React, PostgreSQL, Docker. Construí 9 módulos en un e-commerce de scooters: shipping (4 transportistas), chatbot WhatsApp + AI (OpenAI), analytics (caché in-memory), tasklist, schedule, time-entry, garantías y appointments.
     </div>
 
     <h2>Educación</h2>
@@ -72,11 +72,15 @@
     <div class='entry'>
         <span class='title'>Desarrollador Full Stack</span> | <span class='org'>Hutrit Club (MyUrbanScoot)</span> | Jul 2025 – 31 Mar 2026
         <ul>
-            <li>Diseñé y desplegué un sistema de notificaciones manejado por eventos usando Node.js, EventBus y Webhooks de Twilio, enviando datos conversacionales de WhatsApp en tiempo real hacia un dashboard de React mediante Server-Sent Events (SSE).</li>
-            <li>Construí un motor logístico híbrido como plugin en MedusaJS para automatizar interfaces legacy SOAP/XML (OnTime) y APIs REST (GLS). Implementé un enrutamiento dinámico para evitar cuellos de botella en envíos pesados (+1,200kg).</li>
-            <li>Desarrollé un dashboard administrativo completo en React con paginación infinita, creación masiva de envíos (Bulk Actions), impresión nativa de etiquetas por lotes (PDF/ZPL) y exportaciones robustas a Excel.</li>
-            <li>Desplegué y administré la arquitectura de producción en Railway utilizando contenedores Docker aislados para servicios backend, workers asíncronos, Redis Pub/Sub, clústeres Meilisearch para indexación rápida, PostgreSQL y almacenamiento en S3.</li>
-            <li>Optimizé el motor analítico migrando complejas y bloqueantes consultas N+1 SQL hacia un sistema aislado en Node.js con caché en memoria y hashing predictivo, reduciendo las latencias de >15 segundos a menos de 50 ms.</li>
+            <li>Integré 4 transportistas de envío (OnTime SOAP, GTS REST, GLS, FedEx) con labels PDF/ZPL, tracking y validación por país.</li>
+            <li>Desarrollé chatbot de WhatsApp con OpenAI Assistants API + Twilio Webhooks, con threading por usuario y clasificación de productos por keywords.</li>
+            <li>Construí módulo de analytics con caché (TTL 15 min) y hashing predictivo por fecha/filtros. Migré queries N+1: latencia 15s → 50ms.</li>
+            <li>Implementé Tasklist completo: CRUD, estados, tracking de tiempo, categorías y break tasks.</li>
+            <li>Desarrollé Schedule: gestión de turnos de empleados con requests, approve/reject y calendar view.</li>
+            <li>Implementé Time-entry: clock in/out, pausas, auditoría, export PDF/Excel y compliance de horarios.</li>
+            <li>Construí Warranties: gestión de garantías post-venta con estados, attachments y asignaciones.</li>
+            <li>Desarrollé Appointments: sistema de citas para taller post-venta.</li>
+            <li>Implementé sistema de taxes para Canarias (España).</li>
         </ul>
     </div>
     <div class='entry'>
