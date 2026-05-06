@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">💻</text></svg>',
+        url: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="%23232a2a" d="M12.5 5L4 16l8.5 11 2-1.5L8 16l6.5-9.5-2-1.5z"/><path fill="%23232a2a" d="M19.5 5l-2 1.5L26 16l-8.5 9.5 2 1.5L28 16l-8.5-11z"/></svg>',
         type: 'image/svg+xml',
       }
     ]
