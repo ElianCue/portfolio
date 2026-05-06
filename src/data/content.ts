@@ -4,7 +4,7 @@ export const content = {
     es: {
         hero: {
             title: "Desarrollador Full Stack. Software Engineer.",
-            subtitle: "Soy Elian Cueva, un desarrollador Full Stack especializado en React, Next.js y Node.js. Construyo aplicaciones escalables, desde interfaces dinámicas hasta arquitecturas backend resilientes. Aporto más de 2 años de experiencia real entregando valor en entornos de producción.",
+            subtitle: "Soy Elian Cueva, un desarrollador Full Stack especializado en React, Next.js y Node.js. Construyo aplicaciones escalables, desde interfaces dinámicas hasta arquitecturas backend resilientes. Experiencia real en entornos de producción.",
             ctaPrimary: "Ver Experiencia",
             ctaSecondary: "Descargar CV",
         },
@@ -115,7 +115,7 @@ export const content = {
     en: {
         hero: {
             title: "Full Stack Developer. Software Engineer.",
-            subtitle: "I am Elian Cueva, a Full Stack Developer specializing in React, Next.js, and Node.js. I build scalable applications, ranging from dynamic interfaces to resilient backend architectures. I bring over 2 years of real-world production experience delivering value.",
+            subtitle: "I am Elian Cueva, a Full Stack Developer specializing in React, Next.js, and Node.js. I build scalable applications, ranging from dynamic interfaces to resilient backend architectures. Real-world production experience.",
             ctaPrimary: "View Experience",
             ctaSecondary: "Download Resume",
         },

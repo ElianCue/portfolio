@@ -18,11 +18,11 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
-  title: "Elian Cueva | Full Stack Developer & AI Integrator",
-  description: "Portfolio de Elian Cueva, desarrollador Full Stack especializado en React, Node.js y automatizaciones con IA.",
+  title: "Elian Cueva | Desarrollador Full Stack",
+  description: "Portfolio de Elian Cueva, desarrollador Full Stack especializado en React, Node.js y sistemas backend.",
   openGraph: {
-    title: "Elian Cueva | Full Stack & AI Integrator",
-    description: "Portfolio de Elian Cueva. Desarrollo web, arquitecturas asíncronas, y automatización con IA.",
+    title: "Elian Cueva | Desarrollador Full Stack",
+    description: "Portfolio de Elian Cueva. Desarrollo web fullstack, arquitectura backend y sistemas distribuidos.",
     type: "website",
     locale: "es_ES",
   },
