@@ -55,6 +55,15 @@ export const content = {
                     stack: ["Node.js", "Medusa Framework", "React", "Twilio API", "PostgreSQL"],
                     decisions: "Diseñar un flujo asíncrono para las alertas: Desacoplar el envío del SMS automatizado calculando una demora dinámica (`setTimeout` o cola de tareas) para evitar saturar al cliente minutos después de la compra, respetando la franja horaria hábil.",
                     impact: "Centralización definitiva del taller post-venta dentro del ERP y drástica resolución de las ausencias no justificadas mediante un túnel de confirmación iterativo por WhatsApp.",
+                },
+                {
+                    id: "comesana-propiedades",
+                    title: "Plataforma Inmobiliaria Completa",
+                    problem: "Una inmobiliaria necesitaba un sitio web profesional con buscador de propiedades, mapa interactivo, panel admin y generación de PDFs. Trabajaban con planillas manuales y no tenían presencia digital.",
+                    solution: "Desarrollé una plataforma full-stack con Next.js 14, Prisma + PostgreSQL, panel admin con CRUD completo, autenticación JWT, mapa Leaflet interactivo, carga de imágenes a Cloudinary, PDFs con QR, alertas por email y SEO completo.",
+                    stack: ["Next.js 14", "TypeScript", "PostgreSQL", "Prisma", "Tailwind CSS", "Leaflet", "Cloudinary", "JWT"],
+                    decisions: "Usé monorepo con pnpm workspaces para separar tipos compartidos. El panel admin usa server actions y middleware para ruteo protegido. Implementé sitemap dinámico y JSON-LD para SEO. Los PDFs se generan con jsPDF + html2canvas.",
+                    impact: "La inmobiliaria tiene presencia web profesional con gestión autónoma de propiedades, búsqueda geolocalizada y generación automática de cartelería y fichas en PDF.",
                 }
             ]
         },
@@ -166,6 +175,15 @@ export const content = {
                     stack: ["Node.js", "TypeScript", "MedusaJS", "PostgreSQL", "React"],
                     decisions: "Tasklist implements states: pending, in_progress, issue, completed. Each task can have logged time. Warranties have state workflow with role-based permissions.",
                     impact: "Centralized post-sale and operational task management in the ERP.",
+                },
+                {
+                    id: "comesana-propiedades",
+                    title: "Full Real Estate Platform",
+                    problem: "A real estate agency needed a professional website with property search, interactive map, admin panel and PDF generation. They were using manual spreadsheets and had no digital presence.",
+                    solution: "Built a full-stack platform with Next.js 14, Prisma + PostgreSQL, admin panel with full CRUD, JWT authentication, interactive Leaflet map, Cloudinary image uploads, QR PDFs, email alerts and complete SEO.",
+                    stack: ["Next.js 14", "TypeScript", "PostgreSQL", "Prisma", "Tailwind CSS", "Leaflet", "Cloudinary", "JWT"],
+                    decisions: "Used pnpm monorepo with workspaces for shared types. Admin panel uses server actions and middleware for protected routing. Implemented dynamic sitemap and JSON-LD for SEO. PDFs generated with jsPDF + html2canvas.",
+                    impact: "The agency has a professional web presence with autonomous property management, geolocated search and automatic signage and data sheet PDF generation.",
                 }
             ]
         },
